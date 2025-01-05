@@ -1,8 +1,11 @@
 # LDR to HDR conversion.
 
-<div align="center">
-  <img src="logo url">
+<div>
+  <img src="https://i.imgur.com/F8xGFhW_d.webp?maxwidth=760&fidelity=grand" alt="LDR-to-HDR" style="height:500px;width:500px;">
 </div>
+
+  
+## Abstract
 <p align="center">High dynamic range (HDR) imaging provides the capability of handling real world lighting as opposed to the low dynamic range (LDR) which struggles to accurately represent images with higher dynamic range. However, most imaging content is still available only in LDR. This implementation presents a method for generating HDR images from LDR images based on Convolutional Neural Networks . The model attempts to reconstruct missing information that was lost from the original image . The image is reconstructed from learned features .The model is trained in a supervised method using a dataset of HDR images.</p>
 
 
@@ -31,20 +34,14 @@ The model is able to handle real world lighting and is able to accurately repres
 ## Installation and usage
 Step by step process of cloning the project, installments needed and how to use it
 
-Ex:-
 - Clone the repository
 - Run `pip install -r requirements.txt` to download all necessary dependencies
-- Run `streamlit run app.py` to run the detection algorithm, and upload the picture to the website opened.
+- Run `streamlit run app.py` to run the conversion algorithm, and upload the picture to the website opened.
 
 
 ## Preview
 Screenshots of the project
-<img src="url">
-<img src="url">
-( create a url using imgur and paste in the place or url )
-ex:-
-
-
+<img src="https://i.imgur.com/pdu1ccZ.jpeg">
 
 ## Contribution 
 **This section provides instructions and details on how to submit a contribution via a pull request. It is important to follow these guidelines to make sure your pull request is accepted.**
