@@ -1,14 +1,4 @@
 # LDR to HDR conversion.
-<h2>Team Details</h2>
-<b>Team Number: </b><p>24AAC14</p>
-<b>Senior Mentor:</b><p>Abhiram Dodda</p>
-<b>Junior Mentor:</b><p> Mohamed Ahnaf Ali</p>
-<b>Team Member 1:</b><p> Bhuvan Sai Ramisetti</p>
-<b>Team Member 2:</b><p>Aditya Bharadwaj Kusm</p>
-<b>Team Member 3:</b><p> Seelam Siddartha Reddy</p>
-<!-- <b>Team Member 4:</b><p>xyz</p>
-<b>Team Member 5:</b><p> xyz</p> -->
-
 
 <div align="center">
   <img src="logo url">
